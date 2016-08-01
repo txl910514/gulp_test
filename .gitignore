@@ -1,2 +1,6 @@
 .idea/
 node_modules/
+app/js/build/
+build/
+dist/
+
