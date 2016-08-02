@@ -1,5 +1,10 @@
 $name_test:#c3c;
+$size:32px;
 body{
   background: $name_test;
-
+  font-size: $size;
+  color: #220;
+}
+.div{
+  background: url(../img/daoqi.gif);
 }
