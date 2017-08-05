@@ -3,4 +3,4 @@ node_modules/
 app/js/build/
 build/
 dist/
-
+.DS_Store
